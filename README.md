@@ -1,3 +1,4 @@
+<img width="797" height="484" alt="temp" src="https://github.com/user-attachments/assets/a001cad1-c878-45a3-9313-3321a28debe9" />
 A modern Weather Station Dashboard built with Qt / QML & C++, designed to display real-time temperature and humidity data from sensors via Serial Port (Arduino/ESP32), combined with live weather forecast data from the Open-Meteo API.  
 Features
 Indoor temperature monitoring
